@@ -18,3 +18,5 @@ Source*.ttf
 # ignore jekyll files in docs folder
 docs/_site/*
 docs/.jekyll-cache
+.venv
+.DS_Store
